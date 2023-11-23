@@ -1,4 +1,4 @@
-# Group 18  Documentation for `project_main.ipynb` and `Algorithm_selection.ipynb`
+# Group 18  documentation for `project_main.ipynb` and `Algorithm_selection.ipynb`
 
 ## `project_main.ipynb` Overview
 
