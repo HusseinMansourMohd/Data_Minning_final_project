@@ -26,3 +26,6 @@ The `project_main.ipynb` notebook outlines the process of developing an image cl
 ## Summary
 
 These notebooks are integral to the project aimed at developing an optimized CNN model for image classification. `project_main.ipynb` focuses on the implementation and evaluation of the model, while `Algorithm_selection.ipynb` examines various models to identify the most effective one for the project's objectives.
+
+
+## Website Link : **https://group18ec.github.io/**
